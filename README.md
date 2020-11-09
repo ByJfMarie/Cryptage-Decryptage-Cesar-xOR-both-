@@ -17,3 +17,7 @@ How to install and execute :
     - Execute this line : g++ main.cpp -o prog
     
     - Then you have a prog.exe (for windows) , you can execute the .exe or for linux in your terminal type ./prog
+
+Versions and Chnagelog :
+    
+    - 1.0 : Release of Encryption Program
