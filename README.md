@@ -1,5 +1,10 @@
 # Cryptage-Decryptage-Cesar-xOR-both-
 
+Requirement :
+
+    - For linux : g++
+    - For windows : Mingw -> https://sourceforge.net/projects/mingw/
+
 How to install and execute :
 
     - In main.cpp change : - The directory access to the folder with yours.
